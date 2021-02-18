@@ -17,7 +17,6 @@ file.reverse()
 user = []
 passw = []
 
-
 for lines in file:
     file = lines.split(":")
 
